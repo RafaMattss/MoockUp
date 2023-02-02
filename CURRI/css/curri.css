@@ -73,3 +73,6 @@ a:link{
     box-shadow: 10px 10px 40px #000000;
     margin-right: 30px;
 }
+::-webkit-scrollbar{
+    width: 0px;
+}
